@@ -5,7 +5,7 @@ CSS (CSS frameworks and compilers)
 Internet  
 JavaScript (Javacript Algorithmsl and Data Structures Certification - FreeCodeCamp)  
 Linux and Servers (Firebase)  
-Pyton  
+Phyton  
 Data bases and SQL  
 API and Libraries  
 Version control system (Git - GitHub)  
